@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="vegas_ai",
-    version="0.1.0",
+    version="1.0",
     author="Saurav Shrestha",
     author_email="newarsaurav@gmail.com",
     description="A simple library for randomly selecting winners and to test if this class works.",
